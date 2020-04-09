@@ -13,3 +13,8 @@ como máximo el día Martes 14 de Abril a las 23:59 PM.
 Recursos
 --
 *   [Ejercicios Unidad Semana 1](recursos/Unidad_1_Semana_1_Exercise.pdf)
+
+
+Ayuda
+--
+*   [Comandos GitHub](recursos/git-cheat-sheet-education.pdf)
